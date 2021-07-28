@@ -5,7 +5,7 @@ that matches your IDE's theme perfectly.
 
 ## Examples
 
-![Using _Palenight (Mild Constrast)_](1-palenight-mild-constrast.svg)
+![Using _Palenight (Mild Constrast)_](1-palenight-mild-contrast.svg)
 ![Using _Snazzy Light_](1-snazzy-light.svg)
 
 ## Wallpaper template creation
