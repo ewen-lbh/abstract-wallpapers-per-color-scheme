@@ -6,7 +6,12 @@ that matches your IDE's theme perfectly.
 ## Examples
 
 ![Using _Palenight (Mild Constrast)_](1-palenight-mild-contrast.svg)
+
+<center><p style="text-align:center">Using Palenight (Mild Contrast)</p></center>
+
 ![Using _Snazzy Light_](1-snazzy-light.svg)
+
+<center><p style="text-align:center">Using Snazzy Light</p></center>
 
 ## Wallpaper template creation
 
