@@ -1,7 +1,8 @@
 # Abstract wallpapers per colorscheme
 
-A collection of abstract wallpapers (for dual monitors) that can be applied used with any VS Code theme to generate a nice-looking wallpaper
-that matches your IDE's theme perfectly.
+A collection of abstract SVG wallpapers whose colors can be set to any [_(py)wal_](https://github.com/dylanaraps/pywal) theme.
+
+VS Code themes can be used through a [vscode to pywal converter](https://github.com/ewen-lbh/vscode-theme-converter)
 
 ## Examples
 
