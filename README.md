@@ -6,13 +6,13 @@ VS Code themes can be used through a [vscode to pywal converter](https://github.
 
 ## Examples
 
-![Using _Palenight (Mild Constrast)_](1-palenight-mild-contrast.svg)
+![Using _Palenight (Mild Constrast)_](dark/1-palenight.svg)
 
-<center><p style="text-align:center">Using Palenight (Mild Contrast)</p></center>
+_Using [Palenight (Mild Contrast)](https://github.com/whizkydee/vscode-palenight-theme)_
 
-![Using _Snazzy Light_](1-snazzy-light.svg)
+![Using _Snazzy Light_](light/1-snazzy.svg)
 
-<center><p style="text-align:center">Using Snazzy Light</p></center>
+_Using [Snazzy Light](https://github.com/loilo/vscode-snazzy-light)_
 
 ## Wallpaper template creation
 
